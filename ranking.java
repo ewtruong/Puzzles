@@ -1,3 +1,10 @@
+/*
+ * Takes a word and then displays the ranking of the word
+ * with other words made up of the same letters. A word does
+ * not mean a dictionary word. 
+ *
+*/
+
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
